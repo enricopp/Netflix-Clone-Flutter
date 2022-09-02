@@ -1,16 +1,4 @@
-# netflix
+<h1>Netflix Clone Flutter Front-End</h1>
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h2> Projeto Clone do app da netflix </h2>
+<p> O objetivo deste projeto foi clonar o app da netflix baseado no <br> Figma: https://www.figma.com/file/3mt4uXROoZx66z5kkH8Cew/NETFLIX-APP-(Community)?node-id=3%3A30 <p
